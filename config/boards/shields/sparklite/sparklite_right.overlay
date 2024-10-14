@@ -78,7 +78,7 @@
 // 	};
 // };
 
-// #include "sparklite_trackpoint_ps2.dtsi"
+#include "sparklite_trackpoint_ps2.dtsi"
 / {
 	tpoint0: virtual_input_0 {
 		compatible = "zmk,virtual-input";
